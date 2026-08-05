@@ -18,3 +18,8 @@ name = "Surjeet"
 age = 33
 
 print(name, age)
+
+String : Collection of characters
+"" - showing start and ending of the string.
+
+
