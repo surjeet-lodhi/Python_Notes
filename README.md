@@ -24,6 +24,9 @@ String : Collection of characters
 "" - showing start and ending of the string.
 
 Input Function: function is used to take input from the user through the keyboard
+
 Syntax: input("Prompt message")
+
 Prompt message (optional): A message displayed to the user before they enter input.
+
 The input() function always returns a string.
